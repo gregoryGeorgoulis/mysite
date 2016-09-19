@@ -1,0 +1,59 @@
+*{
+	background-color: #FFF8E1;
+	margin: 2px;
+}
+img{
+	width: 50%;
+	height: auto;
+}
+#iframe{
+	width:718px;
+	height:700px;" 
+}
+#nav{
+	border: 2px black solid;
+}
+#resume{
+	margin-top: 2rem;
+}
+#contact{
+	column-count: 2;
+	width: 15%;
+	height: auto;
+	margin: 5rem 2rem 0rem 0rem;
+	float: right;
+	border: 2px black solid;
+}
+#body{
+	float: left;
+	margin: 5rem 2rem 0rem 5rem;
+	width: 70%;
+	border: 2px black solid;
+}
+.me{
+	width: 40%;
+	display: inline;
+  float: right;
+  border-radius: 10% 10% 10% 10%;
+}
+.projects{
+	text-align: center;
+}
+.navHeader{
+	text-align: center;
+}
+#navList{
+	padding: 0 0 0 0;
+}
+.navBar{
+	list-style: none;
+	cursor: pointer; 
+	cursor: hand;
+	display: inline-block;
+	margin-right: 1rem; 
+}
+.link{
+	margin-right: 1rem;
+	cursor: pointer; 
+	cursor: hand; 
+}
